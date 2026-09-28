@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
