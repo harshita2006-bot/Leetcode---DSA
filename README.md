@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
