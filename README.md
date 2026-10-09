@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
