@@ -1,6 +1,6 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        int low = 0;
+         int low = 0;
  
         // Right boundary of the current search range.
         int high = nums.length - 1;
@@ -18,8 +18,6 @@ class Solution {
                 high = mid;
             }
         }
- 
-        return low;
-    }
-    
+       return low;
+    }   
 }
