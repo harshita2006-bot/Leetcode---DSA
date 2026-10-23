@@ -16,6 +16,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@
 | [0048-rotate-image](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0074-search-a-2d-matrix](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
@@ -78,4 +81,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshita2006-bot/Leetcode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
